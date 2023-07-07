@@ -1,0 +1,15 @@
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcRaio\bin\Debug\net7.0\CalcRaio.exe
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcRaio\bin\Debug\net7.0\CalcRaio.deps.json
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcRaio\bin\Debug\net7.0\CalcRaio.runtimeconfig.json
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcRaio\bin\Debug\net7.0\CalcRaio.dll
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcRaio\bin\Debug\net7.0\CalcRaio.pdb
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcRaio\obj\Debug\net7.0\CalcRaio.csproj.AssemblyReference.cache
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcRaio\obj\Debug\net7.0\CalcRaio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcRaio\obj\Debug\net7.0\CalcRaio.AssemblyInfoInputs.cache
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcRaio\obj\Debug\net7.0\CalcRaio.AssemblyInfo.cs
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcRaio\obj\Debug\net7.0\CalcRaio.csproj.CoreCompileInputs.cache
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcRaio\obj\Debug\net7.0\CalcRaio.dll
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcRaio\obj\Debug\net7.0\refint\CalcRaio.dll
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcRaio\obj\Debug\net7.0\CalcRaio.pdb
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcRaio\obj\Debug\net7.0\CalcRaio.genruntimeconfig.cache
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcRaio\obj\Debug\net7.0\ref\CalcRaio.dll

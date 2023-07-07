@@ -1,0 +1,15 @@
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcDiferenca\bin\Debug\net7.0\CalcDiferenca.exe
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcDiferenca\bin\Debug\net7.0\CalcDiferenca.deps.json
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcDiferenca\bin\Debug\net7.0\CalcDiferenca.runtimeconfig.json
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcDiferenca\bin\Debug\net7.0\CalcDiferenca.dll
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcDiferenca\bin\Debug\net7.0\CalcDiferenca.pdb
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcDiferenca\obj\Debug\net7.0\CalcDiferenca.csproj.AssemblyReference.cache
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcDiferenca\obj\Debug\net7.0\CalcDiferenca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcDiferenca\obj\Debug\net7.0\CalcDiferenca.AssemblyInfoInputs.cache
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcDiferenca\obj\Debug\net7.0\CalcDiferenca.AssemblyInfo.cs
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcDiferenca\obj\Debug\net7.0\CalcDiferenca.csproj.CoreCompileInputs.cache
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcDiferenca\obj\Debug\net7.0\CalcDiferenca.dll
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcDiferenca\obj\Debug\net7.0\refint\CalcDiferenca.dll
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcDiferenca\obj\Debug\net7.0\CalcDiferenca.pdb
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcDiferenca\obj\Debug\net7.0\CalcDiferenca.genruntimeconfig.cache
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcDiferenca\obj\Debug\net7.0\ref\CalcDiferenca.dll

@@ -1,0 +1,15 @@
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcSalario\bin\Debug\net7.0\CalcSalario.exe
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcSalario\bin\Debug\net7.0\CalcSalario.deps.json
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcSalario\bin\Debug\net7.0\CalcSalario.runtimeconfig.json
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcSalario\bin\Debug\net7.0\CalcSalario.dll
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcSalario\bin\Debug\net7.0\CalcSalario.pdb
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcSalario\obj\Debug\net7.0\CalcSalario.csproj.AssemblyReference.cache
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcSalario\obj\Debug\net7.0\CalcSalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcSalario\obj\Debug\net7.0\CalcSalario.AssemblyInfoInputs.cache
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcSalario\obj\Debug\net7.0\CalcSalario.AssemblyInfo.cs
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcSalario\obj\Debug\net7.0\CalcSalario.csproj.CoreCompileInputs.cache
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcSalario\obj\Debug\net7.0\CalcSalario.dll
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcSalario\obj\Debug\net7.0\refint\CalcSalario.dll
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcSalario\obj\Debug\net7.0\CalcSalario.pdb
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcSalario\obj\Debug\net7.0\CalcSalario.genruntimeconfig.cache
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcSalario\obj\Debug\net7.0\ref\CalcSalario.dll

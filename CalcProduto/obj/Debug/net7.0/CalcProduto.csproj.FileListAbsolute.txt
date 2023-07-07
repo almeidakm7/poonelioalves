@@ -1,0 +1,15 @@
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcProduto\bin\Debug\net7.0\CalcProduto.exe
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcProduto\bin\Debug\net7.0\CalcProduto.deps.json
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcProduto\bin\Debug\net7.0\CalcProduto.runtimeconfig.json
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcProduto\bin\Debug\net7.0\CalcProduto.dll
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcProduto\bin\Debug\net7.0\CalcProduto.pdb
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcProduto\obj\Debug\net7.0\CalcProduto.csproj.AssemblyReference.cache
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcProduto\obj\Debug\net7.0\CalcProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcProduto\obj\Debug\net7.0\CalcProduto.AssemblyInfoInputs.cache
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcProduto\obj\Debug\net7.0\CalcProduto.AssemblyInfo.cs
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcProduto\obj\Debug\net7.0\CalcProduto.csproj.CoreCompileInputs.cache
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcProduto\obj\Debug\net7.0\CalcProduto.dll
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcProduto\obj\Debug\net7.0\refint\CalcProduto.dll
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcProduto\obj\Debug\net7.0\CalcProduto.pdb
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcProduto\obj\Debug\net7.0\CalcProduto.genruntimeconfig.cache
+C:\Users\almei\source\repos\ExerciciosPdf1\CalcProduto\obj\Debug\net7.0\ref\CalcProduto.dll
